@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'am **aborn** (Chinese name: 齐格), freelance work.
+I'am **aborn**, freelance work.
 
 - 🔭 I’m currently developing [mindpress](https://github.com/aborn/mindpress) project.
 - 🌱 I’m currently learning ...
